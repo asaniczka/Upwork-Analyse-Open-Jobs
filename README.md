@@ -1,6 +1,6 @@
 # Upwork Job Analysis
 
-Analyze job data from Upwork to identify popular websites and potential opportunities.
+Analyze job data from Upwork to identify popular websites that clients wish to scrape that lacks freelancers specilizing in them.
 
 ## Task description
 
